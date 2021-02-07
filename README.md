@@ -1,5 +1,6 @@
 # print10HW
 Homework for Bard CMSC 335: Games Systems
+https://stumpythelemming.github.io/print10HW/
 
 Henning hf3059@bard.edu
 
